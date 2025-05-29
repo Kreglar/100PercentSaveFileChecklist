@@ -1,0 +1,1448 @@
+{
+    "game": "Shadow The Hedgehog (2005)",
+    "stages": [
+        [
+            {
+                "name": "Westopolis",
+                "id": 0
+            }
+        ],
+        [
+            {
+                "name": "Digital Circuit",
+                "id": 1
+            },
+            {
+                "name": "Glyphic Canyon",
+                "id": 2
+            },
+            {
+                "name": "Lethal Highway",
+                "id": 3
+            }
+        ],
+        [
+            {
+                "name": "Cryptic Castle",
+                "id": 4
+            },
+            {
+                "name": "Prison Island",
+                "id": 5
+            },
+            {
+                "name": "Circus Park",
+                "id": 6
+            }
+        ],
+        [
+            {
+                "name": "Central City",
+                "id": 7
+            },
+            {
+                "name": "The Doom",
+                "id": 8
+            },
+            {
+                "name": "Sky Troops",
+                "id": 9
+            },
+            {
+                "name": "Mad Matrix",
+                "id": 10
+            },
+            {
+                "name": "Death Ruins",
+                "id": 11
+            }
+        ],
+        [
+            {
+                "name": "The ARK",
+                "id": 12
+            },
+            {
+                "name": "Air Fleet",
+                "id": 13
+            },
+            {
+                "name": "Iron Jungle",
+                "id": 14
+            },
+            {
+                "name": "Space Gadget",
+                "id": 15
+            },
+            {
+                "name": "Lost Impact",
+                "id": 16
+            }
+        ],
+        [
+            {
+                "name": "GUN Fortress",
+                "id": 17
+            },
+            {
+                "name": "Black Comet",
+                "id": 18
+            },
+            {
+                "name": "Lava Shelter",
+                "id": 19
+            },
+            {
+                "name": "Cosmic Fall",
+                "id": 20
+            },
+            {
+                "name": "Final Haunt",
+                "id": 21
+            }
+        ]
+    ],
+    "bosses": [
+        {
+            "name": "Black Bull",
+            "id": 0,
+            "encounters": ["Lethal Highway", "Death Ruins"]
+        },
+        {
+            "name": "Egg Breaker",
+            "id": 1,
+            "encounters": ["Cryptic Castle", "Mad Matrix", "Iron Jungle"]
+        },
+        {
+            "name": "Heavy Dog",
+            "id": 2,
+            "encounters": ["The Doom"]
+        },
+        {
+            "name": "Blue Falcon",
+            "id": 3,
+            "encounters": ["The ARK"]
+        },
+        {
+            "name": "Sonic and Diablon",
+            "id": 4,
+            "encounters": ["GUN Fortress (Dark)", "Black Comet (Dark)", "Final Haunt (Dark)"]
+        },
+        {
+            "name": "Black Doom",
+            "id": 5,
+            "encounters": ["GUN Fortress (Hero)", "Cosmic Fall (Hero)", "Final Haunt (Hero)"]
+        },
+        {
+            "name": "Egg Dealer",
+            "id": 6,
+            "encounters": ["Black Comet (Hero)", "Lava Shelter (Hero)", "Lava Shelter (Dark)", "Cosmic Fall (Dark)"]
+        }
+    ],
+    "sequences": [
+        {
+            "name": "1. Punishment, Thy Name is Ruin",
+            "route": "D-D-D-D-D-D"
+        },
+        {
+            "name": "2. Prologue to World Conquest",
+            "route": "D-D-D-D-D-H"
+        },
+        {
+            "name": "3. The March to a Darker World",
+            "route": "D-D-D-D-N-D"
+        },
+        {
+            "name": "4. The Ultimate Ego",
+            "route": "D-D-D-D-N-H"
+        },
+        {
+            "name": "5. Purification via Ruination",
+            "route": "D-D-D-H-D-D"
+        },
+        {
+            "name": "6. Apogee of Darkness",
+            "route": "D-D-D-H-D-H"
+        },
+        {
+            "name": "7. True Soldier of Destruction",
+            "route": "D-D-D-H-N-D"
+        },
+        {
+            "name": "8. Believe in Yourself",
+            "route": "D-D-D-H-N-H"
+        },
+        {
+            "name": "9. An Android's Determination",
+            "route": "D-D-D-H-H-D"
+        },
+        {
+            "name": "10. For Machine, By Machine...",
+            "route": "D-D-D-H-H-H"
+        },
+        {
+            "name": "11. Revenge at Last",
+            "route": "D-D-N-D-D-D"
+        },
+        {
+            "name": "12. Ego's Awakening",
+            "route": "D-D-N-D-D-H"
+        },
+        {
+            "name": "13. Destruction and Scorn",
+            "route": "D-D-N-D-N-D"
+        },
+        {
+            "name": "14. The Last Remaining Purpose",
+            "route": "D-D-N-D-N-H"
+        },
+        {
+            "name": "15. The Nightmare's Insulation",
+            "route": "D-D-N-N-D-D"
+        },
+        {
+            "name": "16. The Nightmare's Sublimation",
+            "route": "D-D-N-N-D-H"
+        },
+        {
+            "name": "17. The Loner's Choice",
+            "route": "D-D-N-N-N-D"
+        },
+        {
+            "name": "18. Subjugation in Black",
+            "route": "D-D-N-N-N-H"
+        },
+        {
+            "name": "19. Replica's Depression",
+            "route": "D-D-N-N-H-D"
+        },
+        {
+            "name": "20. Machine, Machine",
+            "route": "D-D-N-N-H-H"
+        },
+        {
+            "name": "21. Disciple from the Darkness",
+            "route": "D-D-N-H-D-D"
+        },
+        {
+            "name": "22. Beloved Clone",
+            "route": "D-D-N-H-D-H"
+        },
+        {
+            "name": "23. Revenge Upon the Doctor",
+            "route": "D-D-N-H-N-D"
+        },
+        {
+            "name": "24. The Ultimate Replica",
+            "route": "D-D-N-H-N-H"
+        },
+        {
+            "name": "25. Sanction's Demise",
+            "route": "D-D-N-H-H-D"
+        },
+        {
+            "name": "26. Along With My Home",
+            "route": "D-D-N-H-H-H"
+        },
+        {
+            "name": "27. The Cleansing of Darkness",
+            "route": "D-D-H-D-D-D"
+        },
+        {
+            "name": "28. Birth of a God",
+            "route": "D-D-H-D-D-H"
+        },
+        {
+            "name": "29. The Last Soldier's Grim Fate",
+            "route": "D-D-H-D-N-D"
+        },
+        {
+            "name": "30. Isolation and Solitude",
+            "route": "D-D-H-D-N-H"
+        },
+        {
+            "name": "31. Archimedes and the Tortoise",
+            "route": "D-D-H-D-H-D"
+        },
+        {
+            "name": "32. Where Is My Happiness?",
+            "route": "D-D-H-D-H-H"
+        },
+        {
+            "name": "33. Seduced By Taste of Blood",
+            "route": "D-D-H-N-D-D"
+        },
+        {
+            "name": "34. A Machine Made for War",
+            "route": "D-D-H-N-D-H"
+        },
+        {
+            "name": "35. Original Definition",
+            "route": "D-D-H-N-N-D"
+        },
+        {
+            "name": "36. Machine Paradise",
+            "route": "D-D-H-N-N-H"
+        },
+        {
+            "name": "37. Last Will and Testament",
+            "route": "D-D-H-N-H-D"
+        },
+        {
+            "name": "38. Enveloped in Solitude",
+            "route": "D-D-H-N-H-H"
+        },
+        {
+            "name": "39. Parricidal Savior",
+            "route": "D-D-H-H-D-D"
+        },
+        {
+            "name": "40. Copy of a Savior",
+            "route": "D-D-H-H-D-H"
+        },
+        {
+            "name": "41. Excess of Intellect",
+            "route": "D-D-H-H-N-D"
+        },
+        {
+            "name": "42. Crystallization of Intellect",
+            "route": "D-D-H-H-N-H"
+        },
+        {
+            "name": "43. The Ultimate Confrontation",
+            "route": "D-D-H-H-H-D"
+        },
+        {
+            "name": "44. Miracle of Love",
+            "route": "D-D-H-H-H-H"
+        },
+        {
+            "name": "45. The World's Demise",
+            "route": "D-H-D-D-D-D"
+        },
+        {
+            "name": "46. The Ultimate Power",
+            "route": "D-H-D-D-D-H"
+        },
+        {
+            "name": "47. Dyed in Lovely Darkness...",
+            "route": "D-H-D-D-N-D"
+        },
+        {
+            "name": "48. Vainglory or Abandonment?",
+            "route": "D-H-D-D-N-H"
+        },
+        {
+            "name": "49. Messenger of Ruination",
+            "route": "D-H-D—N-D-D"
+        },
+        {
+            "name": "50. Standing at the Summit",
+            "route": "D-H-D-N-D-H"
+        },
+        {
+            "name": "51. Controller from the Capsule",
+            "route": "D-H-D-N-N-D"
+        },
+        {
+            "name": "52. Beyond One's Own Power...",
+            "route": "D-H-D-N-N-H"
+        },
+        {
+            "name": "53. A Clone's Determination",
+            "route": "D-H-D-N-H-D"
+        },
+        {
+            "name": "54. Machine Utopia",
+            "route": "D-H-D-N-H-H"
+        },
+        {
+            "name": "55. A Toast to the Ruler",
+            "route": "D-H-D-H-D-D"
+        },
+        {
+            "name": "56. Answer from the Black Comet",
+            "route": "D-H-D-H-D-H"
+        },
+        {
+            "name": "57. Transcendentalism",
+            "route": "D-H-D-H-N-D"
+        },
+        {
+            "name": "58. Imperialism",
+            "route": "D-H-D-H-N-H"
+        },
+        {
+            "name": "59. The Weight of One's Crimes",
+            "route": "D-H-D-H-H-D"
+        },
+        {
+            "name": "60. Imprisoned by the Past...",
+            "route": "D-H-D-H-H-H"
+        },
+        {
+            "name": "61. The Ultimate World Conquest",
+            "route": "D-H-N-D-D-D"
+        },
+        {
+            "name": "62. Black Angel",
+            "route": "D-H-N-D-D-H"
+        },
+        {
+            "name": "63. Under Darkness' Control",
+            "route": "D-H-N-D-N-D"
+        },
+        {
+            "name": "64. To Love Oneself",
+            "route": "D-H-N-D-N-H"
+        },
+        {
+            "name": "65. Revenge and Determination",
+            "route": "D-H-N-D-H-D"
+        },
+        {
+            "name": "66. Birth of the Robot Emperor",
+            "route": "D-H-N-D-H-H"
+        },
+        {
+            "name": "67. Shadow, the Black Android",
+            "route": "D-H-N-N-D-D"
+        },
+        {
+            "name": "68. A Solitary Android",
+            "route": "D-H-N-N-D-H"
+        },
+        {
+            "name": "69. Over the Original",
+            "route": "D-H-N-N-N-D"
+        },
+        {
+            "name": "70. Machine Sunshine",
+            "route": "D-H-N-N-N-H"
+        },
+        {
+            "name": "71. Life is Guilty",
+            "route": "D-H-N-N-H-D"
+        },
+        {
+            "name": "72. Fallen Angel of Despair",
+            "route": "D-H-N-N-H-H"
+        },
+        {
+            "name": "73. An Eternal Rival...",
+            "route": "D-H-N-H-D-D"
+        },
+        {
+            "name": "74. This is Just the Beginning",
+            "route": "D-H-N-H-D-H"
+        },
+        {
+            "name": "75. Crystal of Tragic Knowledge",
+            "route": "D-H-N-H-N-D"
+        },
+        {
+            "name": "76. Shadow's Second Death...?",
+            "route": "D-H-N-H-N-H"
+        },
+        {
+            "name": "77. The Legend of Shadow",
+            "route": "D-H-N-H-H-D"
+        },
+        {
+            "name": "78. Power of Love",
+            "route": "D-H-N-H-H-H"
+        },
+        {
+            "name": "79. Deep Black",
+            "route": "D-H-H-D-D-D"
+        },
+        {
+            "name": "80. Walk My Way",
+            "route": "D-H-H-D-D-H"
+        },
+        {
+            "name": "81. This is Shadow's Way of Life",
+            "route": "D-H-H-D-N-D"
+        },
+        {
+            "name": "82. A Monarch's Style",
+            "route": "D-H-H-D-N-H"
+        },
+        {
+            "name": "83. In the Gap of Sadness",
+            "route": "D-H-H-D-H-D"
+        },
+        {
+            "name": "84. To Be Ignorant of the Past",
+            "route": "D-H-H-D-H-H"
+        },
+        {
+            "name": "85. At Vengeance's End",
+            "route": "D-H-H-N-D-D"
+        },
+        {
+            "name": "86. Machine Boys",
+            "route": "D-H-H-N-D-H"
+        },
+        {
+            "name": "87. Reborn Along with Sorrow",
+            "route": "D-H-H-N-N-D"
+        },
+        {
+            "name": "88. With a Fate of Self-Denial",
+            "route": "D-H-H-N-N-H"
+        },
+        {
+            "name": "89. I Am Shadow",
+            "route": "D-H-H-N-H-D"
+        },
+        {
+            "name": "90. Shining Within Memory...",
+            "route": "D-H-H-N-H-H"
+        },
+        {
+            "name": "91. The Rise and Fall of the ARK",
+            "route": "D-H-H-H-N-D"
+        },
+        {
+            "name": "92. Requiem for a Fallen Angel",
+            "route": "D-H-H-H-N-H"
+        },
+        {
+            "name": "93. Ultimate Shadow",
+            "route": "D-H-H-H-H-D"
+        },
+        {
+            "name": "94. For Love's Sake",
+            "route": "D-H-H-H-H-H"
+        },
+        {
+            "name": "95. A Heart Awoken from Darkness",
+            "route": "N-D-D-D-D-D"
+        },
+        {
+            "name": "96. Destruction From Perfection",
+            "route": "N-D-D-D-D-H"
+        },
+        {
+            "name": "97. Darkness' Strongest Soldier",
+            "route": "N-D-D-D-N-D"
+        },
+        {
+            "name": "98. Severed Chains",
+            "route": "N-D-D-D-N-H"
+        },
+        {
+            "name": "99. Retribution Against Humanity",
+            "route": "N-D-D-H-D-D"
+        },
+        {
+            "name": "100. To Be Known as ‘Ultimate'",
+            "route": "N-D-D-H-D-H"
+        },
+        {
+            "name": "101. Dark Warrior's Advent",
+            "route": "N-D-D-H-N-D"
+        },
+        {
+            "name": "102. Arriving at the Ego",
+            "route": "N-D-D-H-N-H"
+        },
+        {
+            "name": "103. Determination of a Fake",
+            "route": "N-D-D-H-H-D"
+        },
+        {
+            "name": "104. Path to the Machine Empire",
+            "route": "N-D-D-H-H-H"
+        },
+        {
+            "name": "105. Demise Wrought by Tragedy",
+            "route": "N-D-N-D-D-D"
+        },
+        {
+            "name": "106. Turning Sorrow Into Strength",
+            "route": "N-D-N-D-D-H"
+        },
+        {
+            "name": "107. The Liberated Soldier",
+            "route": "N-D-N-D-N-D"
+        },
+        {
+            "name": "108. Stupefaction's End",
+            "route": "N-D-N-D-N-H"
+        },
+        {
+            "name": "109. Humanity's Folly",
+            "route": "N-D-N-N-D-D"
+        },
+        {
+            "name": "110. Surpassing All Else",
+            "route": "N-D-N-N-D-H"
+        },
+        {
+            "name": "111. Soldier of Grief",
+            "route": "N-D-N-N-N-D"
+        },
+        {
+            "name": "112. Reclaimed Heart",
+            "route": "N-D-N-N-N-H"
+        },
+        {
+            "name": "113. Fighting Spirit of Steel",
+            "route": "N-D-N-N-H-D"
+        },
+        {
+            "name": "114. Machine Soldier Uprising",
+            "route": "N-D-N-N-H-H"
+        },
+        {
+            "name": "115. The Devil Born From Betrayal",
+            "route": "N-D-N-H-D-D"
+        },
+        {
+            "name": "116. Beyond the Truth of Impact",
+            "route": "N-D-N-H-D-H"
+        },
+        {
+            "name": "117. The Immortal Android",
+            "route": "N-D-N-H-N-D"
+        },
+        {
+            "name": "118. The New, Coldhearted Empire",
+            "route": "N-D-N-H-N-H"
+        },
+        {
+            "name": "119. A Singular Atonement",
+            "route": "N-D-N-H-H-D"
+        },
+        {
+            "name": "120. Spawn of the Devil",
+            "route": "N-D-N-H-H-H"
+        },
+        {
+            "name": "121. Black Doom's Scheme",
+            "route": "N-D-H-D-D-D"
+        },
+        {
+            "name": "122. Subjugating Heaven and Earth",
+            "route": "N-D-H-D-D-H"
+        },
+        {
+            "name": "123. Road of the Dark Soldier",
+            "route": "N-D-H-D-N-D"
+        },
+        {
+            "name": "124. Dark Finale",
+            "route": "N-D-H-D-N-H"
+        },
+        {
+            "name": "125. Realization While On Board",
+            "route": "N-D-H-D-H-D"
+        },
+        {
+            "name": "126. Birth of a Champion",
+            "route": "N-D-H-D-H-H"
+        },
+        {
+            "name": "127. With the Black Arms",
+            "route": "N-D-H-N-D-D"
+        },
+        {
+            "name": "128. The Road to Self-Assurance",
+            "route": "N-D-H-N-D-H"
+        },
+        {
+            "name": "129. The Pursuit of Dr. Eggman",
+            "route": "N-D-H-N-N-D"
+        },
+        {
+            "name": "130. Surpassing His Creator",
+            "route": "N-D-H-N-N-H"
+        },
+        {
+            "name": "131. ARK, Colony of Pathos",
+            "route": "N-D-H-N-H-D"
+        },
+        {
+            "name": "132. Perfection Lost to Darkness",
+            "route": "N-D-H-N-H-H"
+        },
+        {
+            "name": "133. A New Challenge",
+            "route": "N-D-H-H-D-D"
+        },
+        {
+            "name": "134. The Machines' Coup d'Etat",
+            "route": "N-D-H-H-D-H"
+        },
+        {
+            "name": "135. A Vow for the Victims",
+            "route": "N-D-H-H-N-D"
+        },
+        {
+            "name": "136. The Truth of Sadness",
+            "route": "N-D-H-H-N-H"
+        },
+        {
+            "name": "137. The Destined Sonic Showdown",
+            "route": "N-D-H-H-H-D"
+        },
+        {
+            "name": "138. The Black Hero's Rebirth",
+            "route": "N-D-H-H-H-H"
+        },
+        {
+            "name": "139. Truth, Thy Name is Vengeance",
+            "route": "N-N-D-D-D-D"
+        },
+        {
+            "name": "140. Searching for ‘Ultimate'",
+            "route": "N-N-D-D-D-H"
+        },
+        {
+            "name": "141. Reborn Hatred for Humanity",
+            "route": "N-N-D-D-N-D"
+        },
+        {
+            "name": "142. A Future Taken from the Past",
+            "route": "N-N-D-D-N-H"
+        },
+        {
+            "name": "143. The Devils' Victory Song",
+            "route": "N-N-D-N-D-D"
+        },
+        {
+            "name": "144. One to Succeed a God",
+            "route": "N-N-D-N-D-H"
+        },
+        {
+            "name": "145. Disappointed in Humanity",
+            "route": "N-N-D-N-N-D"
+        },
+        {
+            "name": "146. Faith Taken from Solitude",
+            "route": "N-N-D-N-N-H"
+        },
+        {
+            "name": "147. Planted Memories",
+            "route": "N-N-D-N-H-D"
+        },
+        {
+            "name": "148. To Unite Humanity",
+            "route": "N-N-D-N-H-H"
+        },
+        {
+            "name": "149. Isolated Soldier Shadow",
+            "route": "N-N-D-H-D-D"
+        },
+        {
+            "name": "150. Answer Derived from Truth",
+            "route": "N-N-D-H-D-H"
+        },
+        {
+            "name": "151. A Fake's Disposition",
+            "route": "N-N-D-H-N-D"
+        },
+        {
+            "name": "152. A New World Without Betrayal",
+            "route": "N-N-D-H-N-H"
+        },
+        {
+            "name": "153. Together With Maria...",
+            "route": "N-N-D-H-H-D"
+        },
+        {
+            "name": "154. The Tragedy's Conclusion",
+            "route": "N-N-D-H-H-H"
+        },
+        {
+            "name": "155. The Day That Hope Died",
+            "route": "N-N-N-D-D-D"
+        },
+        {
+            "name": "156. Dark Destroyer",
+            "route": "N-N-N-D-D-H"
+        },
+        {
+            "name": "157. Diabolical Power",
+            "route": "N-N-N-D-N-D"
+        },
+        {
+            "name": "158. For Freedom",
+            "route": "N-N-N-D-N-H"
+        },
+        {
+            "name": "159. At Least, Be Like Shadow...",
+            "route": "N-N-N-D-H-D"
+        },
+        {
+            "name": "160. Seeking a Silent Paradise",
+            "route": "N-N-N-D-H-H"
+        },
+        {
+            "name": "161. The Lion's Awakening",
+            "route": "N-N-N-N-D-D"
+        },
+        {
+            "name": "162. Identity",
+            "route": "N-N-N-N-D-H"
+        },
+        {
+            "name": "163. An Android's Rebellion",
+            "route": "N-N-N-N-N-D"
+        },
+        {
+            "name": "164. A New Empire's Beginning",
+            "route": "N-N-N-N-N-H"
+        },
+        {
+            "name": "165. Bullets from Tears",
+            "route": "N-N-N-N-H-D"
+        },
+        {
+            "name": "166. Journey to Nihility",
+            "route": "N-N-N-N-H-H"
+        },
+        {
+            "name": "167. Shadow Surpassing Shadow",
+            "route": "N-N-N-H-D-D"
+        },
+        {
+            "name": "168. Dr. Eggman's Miscalculation",
+            "route": "N-N-N-H-D-H"
+        },
+        {
+            "name": "169. Along with the ARK",
+            "route": "N-N-N-H-N-D"
+        },
+        {
+            "name": "170. Requiem for the Heavens",
+            "route": "N-N-N-H-N-H"
+        },
+        {
+            "name": "171. Sonic Dethroned!",
+            "route": "N-N-N-H-H-D"
+        },
+        {
+            "name": "172. Justice Reborn in Space",
+            "route": "N-N-N-H-H-H"
+        },
+        {
+            "name": "173. Steel Ruler",
+            "route": "N-N-H-D-D-D"
+        },
+        {
+            "name": "174. For the Sake of the Self",
+            "route": "N-N-H-D-D-H"
+        },
+        {
+            "name": "175. Farewell to the Past",
+            "route": "N-N-H-D-N-D"
+        },
+        {
+            "name": "176. Steel Paradise",
+            "route": "N-N-H-D-N-H"
+        },
+        {
+            "name": "177. The Guardian With No Past",
+            "route": "N-N-H-D-H-D"
+        },
+        {
+            "name": "178. The Ultimate Atonement",
+            "route": "N-N-H-D-H-H"
+        },
+        {
+            "name": "179. A Fake's Aspiration",
+            "route": "N-N-H-N-D-D"
+        },
+        {
+            "name": "180. Machine World",
+            "route": "N-N-H-N-D-H"
+        },
+        {
+            "name": "181. Twilight Ark",
+            "route": "N-N-H-N-N-D"
+        },
+        {
+            "name": "182. Compensation for a Miracle",
+            "route": "N-N-H-N-N-H"
+        },
+        {
+            "name": "183. The Strongest Hedgehog",
+            "route": "N-N-H-N-H-D"
+        },
+        {
+            "name": "184. The Ultimate Punisher",
+            "route": "N-N-H-N-H-H"
+        },
+        {
+            "name": "185. Voyage of Reminiscence",
+            "route": "N-N-H-H-N-D"
+        },
+        {
+            "name": "186. Wandering's End",
+            "route": "N-N-H-H-N-H"
+        },
+        {
+            "name": "187. The Ultimate Proof",
+            "route": "N-N-H-H-H-D"
+        },
+        {
+            "name": "188. Punisher of Love",
+            "route": "N-N-H-H-H-H"
+        },
+        {
+            "name": "189. Messenger from the Darkness",
+            "route": "N-H-D-D-D-D"
+        },
+        {
+            "name": "190. The New Ruler",
+            "route": "N-H-D-D-D-H"
+        },
+        {
+            "name": "191. Dark Soldier",
+            "route": "N-H-D-D-N-D"
+        },
+        {
+            "name": "192. The Road of Light",
+            "route": "N-H-D-D-N-H"
+        },
+        {
+            "name": "193. The Machine-Laden Kingdom",
+            "route": "N-H-D-D-H-D"
+        },
+        {
+            "name": "194. New Determination",
+            "route": "N-H-D-D-H-H"
+        },
+        {
+            "name": "195. Birth of the Dark Soldier",
+            "route": "N-H-D-N-D-D"
+        },
+        {
+            "name": "196. A New Journey",
+            "route": "N-H-D-N-D-H"
+        },
+        {
+            "name": "197. The Android's Opposition",
+            "route": "N-H-D-N-N-D"
+        },
+        {
+            "name": "198. Founding of the Robot Nation",
+            "route": "N-H-D-N-N-H"
+        },
+        {
+            "name": "199. The Eternal Protector",
+            "route": "N-H-D-N-H-D"
+        },
+        {
+            "name": "200. The Sinner's Repose",
+            "route": "N-H-D-N-H-H"
+        },
+        {
+            "name": "201. A Hero's Resolution",
+            "route": "N-H-D-H-D-D"
+        },
+        {
+            "name": "202. The Weapons' Empire",
+            "route": "N-H-D-H-D-H"
+        },
+        {
+            "name": "203. Perpetual Voyage",
+            "route": "N-H-D-H-N-D"
+        },
+        {
+            "name": "204. A Hero's Atonement",
+            "route": "N-H-D-H-N-H"
+        },
+        {
+            "name": "205. Dark Hegemony",
+            "route": "N-H-D-H-H-D"
+        },
+        {
+            "name": "206. And the Dream Continues",
+            "route": "N-H-D-H-H-H"
+        },
+        {
+            "name": "207. Fighter for Darkness",
+            "route": "N-H-N-D-D-D"
+        },
+        {
+            "name": "208. The Path I Believed In",
+            "route": "N-H-N-D-D-H"
+        },
+        {
+            "name": "209. Determination's Daybreak",
+            "route": "N-H-N-D-N-D"
+        },
+        {
+            "name": "210. Machine Kingdom at Dawn",
+            "route": "N-H-N-D-N-H"
+        },
+        {
+            "name": "211. Sinful Protector",
+            "route": "N-H-N-D-H-D"
+        },
+        {
+            "name": "212. At the End of the Journey",
+            "route": "N-H-N-D-H-H"
+        },
+        {
+            "name": "213. Surmounting the Nightmare",
+            "route": "N-H-N-N-D-D"
+        },
+        {
+            "name": "214. Dawn of the Machines",
+            "route": "N-H-N-N-D-H"
+        },
+        {
+            "name": "215. Wandering for Eternity",
+            "route": "N-H-N-N-N-D"
+        },
+        {
+            "name": "216. At Vagrancy's End",
+            "route": "N-H-N-N-N-H"
+        },
+        {
+            "name": "217. The Summit of Power",
+            "route": "N-H-N-N-H-D"
+        },
+        {
+            "name": "218. Under the Name of Love",
+            "route": "N-H-N-N-H-H"
+        },
+        {
+            "name": "219. Eternally Drifting",
+            "route": "N-H-N-H-N-D"
+        },
+        {
+            "name": "220. The Importance of Truth",
+            "route": "N-H-N-H-N-H"
+        },
+        {
+            "name": "221. The Beginning of Judgment",
+            "route": "N-H-N-H-H-D"
+        },
+        {
+            "name": "222. This World's Guardian",
+            "route": "N-H-N-H-H-H"
+        },
+        {
+            "name": "223. Light Born from Darkness",
+            "route": "N-H-H-D-D-D"
+        },
+        {
+            "name": "224. The Order of Steel",
+            "route": "N-H-H-D-D-H"
+        },
+        {
+            "name": "225. Solitary Journey",
+            "route": "N-H-H-D-N-D"
+        },
+        {
+            "name": "226. The Fall Home",
+            "route": "N-H-H-D-N-H"
+        },
+        {
+            "name": "227. Sovereign of All Creation",
+            "route": "N-H-H-D-H-D"
+        },
+        {
+            "name": "228. I Shall Be the One to Judge",
+            "route": "N-H-H-D-H-H"
+        },
+        {
+            "name": "229. Gone With the Darkness",
+            "route": "N-H-H-H-N-D"
+        },
+        {
+            "name": "230. The Ultimate Choice",
+            "route": "N-H-H-H-N-H"
+        },
+        {
+            "name": "231. I Am the Strongest!",
+            "route": "N-H-H-H-H-D"
+        },
+        {
+            "name": "232. Justice's Awakening",
+            "route": "N-H-H-H-H-H"
+        },
+        {
+            "name": "233. Prelude to Ruination",
+            "route": "H-D-D-D-D-D"
+        },
+        {
+            "name": "234. A World United by Darkness",
+            "route": "H-D-D-D-D-H"
+        },
+        {
+            "name": "235. The Pulse of Darkness",
+            "route": "H-D-D-D-N-D"
+        },
+        {
+            "name": "236. To Just Be Myself",
+            "route": "H-D-D-D-N-H"
+        },
+        {
+            "name": "237. Punishment in Jet Black",
+            "route": "H-D-D-N-D-D"
+        },
+        {
+            "name": "238. The Ruler's First Cry",
+            "route": "H-D-D-N-D-H"
+        },
+        {
+            "name": "239. Darkness' Conspiracy",
+            "route": "H-D-D-N-N-D"
+        },
+        {
+            "name": "240. The Faint Light of Tomorrow",
+            "route": "H-D-D-N-N-H"
+        },
+        {
+            "name": "241. Time of Departure",
+            "route": "H-D-D-N-H-D"
+        },
+        {
+            "name": "242. Rise of the Machine Kingdom",
+            "route": "H-D-D-N-H-H"
+        },
+        {
+            "name": "243. Despair's Quickening",
+            "route": "H-D-D-H-D-D"
+        },
+        {
+            "name": "244. The Beginning",
+            "route": "H-D-D-H-D-H"
+        },
+        {
+            "name": "245. Setting Out in the Morning",
+            "route": "H-D-D-H-N-D"
+        },
+        {
+            "name": "246. The Weapons' Dawn",
+            "route": "H-D-D-H-N-H"
+        },
+        {
+            "name": "247. Pure Ark",
+            "route": "H-D-D-H-H-D"
+        },
+        {
+            "name": "248. Making Up For It in the End",
+            "route": "H-D-D-H-H-H"
+        },
+        {
+            "name": "249. The Coming of the Dark Time",
+            "route": "H-D-N-D-D-D"
+        },
+        {
+            "name": "250. The Throne of God",
+            "route": "H-D-N-D-D-H"
+        },
+        {
+            "name": "251. God of War",
+            "route": "H-D-N-D-N-D"
+        },
+        {
+            "name": "252. Howl of Solitude",
+            "route": "H-D-N-D-N-H"
+        },
+        {
+            "name": "253. Proof of Existence",
+            "route": "H-D-N-D-H-D"
+        },
+        {
+            "name": "254. Ardent Vow",
+            "route": "H-D-N-D-H-H"
+        },
+        {
+            "name": "255. A Deal With the Devil",
+            "route": "H-D-N-N-D-D"
+        },
+        {
+            "name": "256. A Reason to Live",
+            "route": "H-D-N-N-D-H"
+        },
+        {
+            "name": "257. Induplicable Thoughts",
+            "route": "H-D-N-N-N-D"
+        },
+        {
+            "name": "258. Steel Struck With Flame",
+            "route": "H-D-N-N-N-H"
+        },
+        {
+            "name": "259. A Heart Bound to the ARK",
+            "route": "H-D-N-N-H-D"
+        },
+        {
+            "name": "260. Tears Shed by the Stars",
+            "route": "H-D-N-N-H-H"
+        },
+        {
+            "name": "261. Imitation Complex",
+            "route": "H-D-N-H-D-D"
+        },
+        {
+            "name": "262. Steel Combat Boots",
+            "route": "H-D-N-H-D-H"
+        },
+        {
+            "name": "263. Protector of the Ashen Moon",
+            "route": "H-D-N-H-N-D"
+        },
+        {
+            "name": "264. A Demon Drifting",
+            "route": "H-D-N-H-N-H"
+        },
+        {
+            "name": "265. The Ultimate Pride",
+            "route": "H-D-N-H-H-D"
+        },
+        {
+            "name": "266. I Know the Will of Heaven",
+            "route": "H-D-N-H-H-H"
+        },
+        {
+            "name": "267. Ego Dyed in Black",
+            "route": "H-D-H-D-D-D"
+        },
+        {
+            "name": "268. Isolation By Choice",
+            "route": "H-D-H-D-D-H"
+        },
+        {
+            "name": "269. Faith Without Falsehood",
+            "route": "H-D-H-D-N-D"
+        },
+        {
+            "name": "270. Machine Empire",
+            "route": "H-D-H-D-N-H"
+        },
+        {
+            "name": "271. The Eternally-Closed Door",
+            "route": "H-D-H-D-H-D"
+        },
+        {
+            "name": "272. The Sealed-Away Ark of Sin",
+            "route": "H-D-H-D-H-H"
+        },
+        {
+            "name": "273. Silver Emergence",
+            "route": "H-D-H-N-D-D"
+        },
+        {
+            "name": "274. Pulsating Supercurrent",
+            "route": "H-D-H-N-D-H"
+        },
+        {
+            "name": "275. The Reason I Was Born",
+            "route": "H-D-H-N-N-D"
+        },
+        {
+            "name": "276. The Dark Part of the Galaxy",
+            "route": "H-D-H-N-N-H"
+        },
+        {
+            "name": "277. The View From Atop the World",
+            "route": "H-D-H-N-H-D"
+        },
+        {
+            "name": "278. Maria's Testament",
+            "route": "H-D-H-N-H-H"
+        },
+        {
+            "name": "279. A Genius Scientist's Lineage",
+            "route": "H-D-H-H-N-D"
+        },
+        {
+            "name": "280. Distorted Truth",
+            "route": "H-D-H-H-N-H"
+        },
+        {
+            "name": "281. A Counterfeit Existence",
+            "route": "H-D-H-H-H-D"
+        },
+        {
+            "name": "282. Beloved Memories",
+            "route": "H-D-H-H-H-H"
+        },
+        {
+            "name": "283. Birth of a Devil",
+            "route": "H-H-D-D-D-D"
+        },
+        {
+            "name": "284. A Dark Myth's Beginnings",
+            "route": "H-H-D-D-D-H"
+        },
+        {
+            "name": "285. Black Thunder",
+            "route": "H-H-D-D-N-D"
+        },
+        {
+            "name": "286. The Torn-Away Necklace",
+            "route": "H-H-D-D-N-H"
+        },
+        {
+            "name": "287. A Soul Sheltered by Iron",
+            "route": "H-H-D-D-H-D"
+        },
+        {
+            "name": "288. Steel Nation's Decree",
+            "route": "H-H-D-D-H-H"
+        },
+        {
+            "name": "289. Coronation of Darkness",
+            "route": "H-H-D-N-D-D"
+        },
+        {
+            "name": "290. Opened Eyes",
+            "route": "H-H-D-N-D-H"
+        },
+        {
+            "name": "291. The Doctor's Lie",
+            "route": "H-H-D-N-N-D"
+        },
+        {
+            "name": "292. The Uninvited Successor",
+            "route": "H-H-D-N-N-H"
+        },
+        {
+            "name": "293. The Closed Pandora's Box",
+            "route": "H-H-D-N-H-D"
+        },
+        {
+            "name": "294. A Heart Bound by Sin",
+            "route": "H-H-D-N-H-H"
+        },
+        {
+            "name": "295. Courage from Turning Gears",
+            "route": "H-H-D-H-D-D"
+        },
+        {
+            "name": "296. Fullmetal Prince",
+            "route": "H-H-D-H-D-H"
+        },
+        {
+            "name": "297. Time's Watchman",
+            "route": "H-H-D-H-N-D"
+        },
+        {
+            "name": "298. Galaxy's Requiem",
+            "route": "H-H-D-H-N-H"
+        },
+        {
+            "name": "299. Charm of the Chaos Emeralds",
+            "route": "H-H-D-H-H-D"
+        },
+        {
+            "name": "300. Promise of a Far-Off Day",
+            "route": "H-H-D-H-H-H"
+        },
+        {
+            "name": "301. The Grim Reaper's Horn",
+            "route": "H-H-N-D-D-D"
+        },
+        {
+            "name": "302. A Flame Extinguished by Fate",
+            "route": "H-H-N-D-D-H"
+        },
+        {
+            "name": "303. Shouting at the Morning Sun",
+            "route": "H-H-N-D-N-D"
+        },
+        {
+            "name": "304. Iron Ambition",
+            "route": "H-H-N-D-N-H"
+        },
+        {
+            "name": "305. Sleeping on Hallowed Ground",
+            "route": "H-H-N-D-H-D"
+        },
+        {
+            "name": "306. Explanation of the Truth",
+            "route": "H-H-N-D-H-H"
+        },
+        {
+            "name": "307. An Android's Dream",
+            "route": "H-H-N-N-D-D"
+        },
+        {
+            "name": "308. Metallic Quickening",
+            "route": "H-H-N-N-D-H"
+        },
+        {
+            "name": "309. Funeral Procession in Space",
+            "route": "H-H-N-N-N-D"
+        },
+        {
+            "name": "310. Lost to the Universe's Abyss",
+            "route": "H-H-N-N-N-H"
+        },
+        {
+            "name": "311. Destiny for Two",
+            "route": "H-H-N-N-H-D"
+        },
+        {
+            "name": "312. The Spun Threads of Fate",
+            "route": "H-H-N-N-H-H"
+        },
+        {
+            "name": "313. Ark of the Heavens",
+            "route": "H-H-N-H-N-D"
+        },
+        {
+            "name": "314. Ghost of the ARK",
+            "route": "H-H-N-H-N-H"
+        },
+        {
+            "name": "315. A Pair of Shooting Stars",
+            "route": "H-H-N-H-H-D"
+        },
+        {
+            "name": "316. The One Who Maria Entrusted",
+            "route": "H-H-N-H-H-H"
+        },
+        {
+            "name": "317. A.I.'s Enlightenment",
+            "route": "H-H-H-D-D-D"
+        },
+        {
+            "name": "318. A Dying Empire's Cry",
+            "route": "H-H-H-D-D-H"
+        },
+        {
+            "name": "319. Moon of Atonement",
+            "route": "H-H-H-D-N-D"
+        },
+        {
+            "name": "320. Tear-Soaked Hometown",
+            "route": "H-H-H-D-N-H"
+        },
+        {
+            "name": "321. Sparks on the Horizon",
+            "route": "H-H-H-D-H-D"
+        },
+        {
+            "name": "322. A Use for a Saved Life",
+            "route": "H-H-H-D-H-H"
+        },
+        {
+            "name": "323. Coffin of Memories",
+            "route": "H-H-H-H-N-D"
+        },
+        {
+            "name": "324. The Self-Imposed Seal",
+            "route": "H-H-H-H-N-H"
+        },
+        {
+            "name": "325. Pretense in the Mirror",
+            "route": "H-H-H-H-H-D"
+        },
+        {
+            "name": "326. A Missive from 50 Years Ago",
+            "route": "H-H-H-H-H-H"
+        }
+    ]
+}
